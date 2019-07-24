@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: maklumanakremaja.blogspot.com
+Token: 7ba71fe7ffb629f8616953c303e8640d0e5b819c86037f39bd426999df2c3764
